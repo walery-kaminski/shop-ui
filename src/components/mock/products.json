@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1",
+    "name": "Ground Coffee",
+    "description": "Bag of ground coffee beans",
+    "price": 2.0,
+    "image": "/images/coffee.jpg",
+    "category": "coffee beans"
+  },
+  {
+    "id": "2",
+    "name": "Espresso",
+    "description": "A shot of espresso",
+    "price": 3.0,
+    "image": "/images/espresso.jpg",
+    "category": "drink"
+  },
+  {
+    "id": "3",
+    "name": "Cappuccino",
+    "description": "A shot of espresso and milk",
+    "price": 4.0,
+    "image": "/images/cappuccino.jpg",
+    "category": "drink"
+  },
+  {
+    "id": "4",
+    "name": "Latte",
+    "description": "A hot milk drink",
+    "price": 4.0,
+    "image": "/images/latte.jpg",
+    "category": "drink"
+  },
+  {
+    "id": "5",
+    "name": "Mocha",
+    "description": "A shot of espresso, milk and chocolate",
+    "price": 5.0,
+    "image": "/images/mocha.jpg",
+    "category": "drink"
+  },
+  {
+    "id": "6",
+    "name": "Macchiato",
+    "description": "A glass of espresso with a steamed milk foam",
+    "price": 4.0,
+    "image": "/images/macchiato.jpg",
+    "category": "drink"
+  },
+  {
+    "id": "7",
+    "name": "Coffee Cake",
+    "description": "A delicious coffee cake",
+    "price": 5.0,
+    "image": "/images/coffeecake.jpg",
+    "category": "cake"
+  },
+  {
+    "id": "8",
+    "name": "Coffee Cup",
+    "description": "A stylish high quality coffee cup",
+    "price": 2.0,
+    "image": "/images/coffeecup.jpg",
+    "category": "utensils"
+  },
+  {
+    "id": "9",
+    "name": "Coffee Mug",
+    "description": "A stylish high quality coffee mug",
+    "price": 2.0,
+    "image": "/images/coffeemug.jpg",
+    "category": "utensils"
+  },
+  {
+    "id": "10",
+    "name": "Coffee Table",
+    "description": "The best in class coffee table",
+    "price": 10.0,
+    "image": "/images/coffeetable.jpg",
+    "category": "furniture"
+  },
+  {
+    "id": "11",
+    "name": "Coffee Chair",
+    "description": "A gorgeous, comfortable, high quality coffee chair",
+    "price": 5.0,
+    "image": "/images/coffeechair.jpg",
+    "category": "furniture"
+  },
+  {
+    "id": "12",
+    "name": "Coffee Table Lamp",
+    "description": "A high quality, dimmable coffee table lamp",
+    "price": 5.0,
+    "image": "/images/coffeetablelamp.jpg",
+    "category": "furniture"
+  },
+  {
+    "id": "13",
+    "name": "Coffee Table Clock",
+    "description": "The best in class coffee table clock",
+    "price": 5.0,
+    "image": "/images/coffeetableclock.jpg",
+    "category": "furniture"
+  }
+]
